@@ -1,0 +1,6 @@
+__pycache__
+databases/external_databases
+databases/miraidd.csv
+databases/entire_pubmed_scrape.p
+databases/all_pubmed_compl_embeds.p
+databases/entire_pubmed_scrape_no_paper_mirs.p
